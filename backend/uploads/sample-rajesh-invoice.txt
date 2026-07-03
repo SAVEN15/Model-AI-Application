@@ -1,0 +1,7 @@
+invoice_number: INV-RAJ-1001
+invoice_date: 2026-06-12
+vendor_name: Retail Electronics Store
+gst_number: 29ABCDE1234F1Z5
+total_amount: 8000
+customer_name: Rajesh Kumar
+product_name: Bluetooth Speaker
